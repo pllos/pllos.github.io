@@ -178,7 +178,7 @@ nav > div input:checked ~ div {
 }
 
 body>div {
-    background: linear-gradient(to right, rgba(0,0,0,1) 0%,rgba(0,0,0,1) 62%,rgba(0,0,120,0) 100%);
+    background: linear-gradient(to right, rgba(0,0,0,1) 0%,rgba(0,0,120,1) 62%,rgba(0,0,120,0) 100%);
     width: 100vw;
     height: 100vh;
     overflow: hidden;
