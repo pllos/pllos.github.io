@@ -27,8 +27,8 @@ nav div a, nav div a svg {
 }
 
 nav div a:hover, nav div a:hover svg {
-    color: #ffc068;
-    fill: #ffc068;
+    color: #232323;
+    fill: #232323;
 }
 
 nav > div
