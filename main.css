@@ -178,14 +178,14 @@ nav > div input:checked ~ div {
 }
 
 body>div {
-    background: linear-gradient(to right, rgba(0,0,0,1) 0%,rgba(0,0,0,1) 62%,rgba(0,0,0,0) 100%);
+    background: linear-gradient(to right, rgba(0,0,0,1) 0%,rgba(0,0,0,1) 62%,rgba(0,0,120,0) 100%);
     width: 100vw;
     height: 100vh;
     overflow: hidden;
     display: flex;
     align-items: center;
     transform: translate(-100%, 0); /* and STAY OUT! */
-    animation: opening 3s cubic-bezier(.99, 0, 1, .36);
+    animation: opening 5s cubic-bezier(.99, 0, 1, .36);
     position: absolute;
     z-index: 10;
 }
