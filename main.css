@@ -14,7 +14,7 @@ body {
     padding: 0;
     /* make it look decent enough */
     background: #3bc0f9;
-    color: #cdcdcd;
+    color: #fcfeff;
     font-family: "Avenir Next", "Avenir", sans-serif;
 }
 
@@ -27,8 +27,8 @@ nav div a, nav div a svg {
 }
 
 nav div a:hover, nav div a:hover svg {
-    color: tomato;
-    fill: tomato;
+    color: #ffc068;
+    fill: #ffc068;
 }
 
 nav > div
